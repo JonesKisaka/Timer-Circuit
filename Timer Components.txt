@@ -1,0 +1,12 @@
+555 Timer circuit to generate a clock pulse.
+
+COMPONENTS.
+
+NE555P chip
+3-1k ohm resistors.
+100k potentiometer
+1- 10uF Capacitor
+1- 10nF Capacitor
+LED of any color to show the ouput.
+3-Pin Terminal Block
+5-9V power supply.
